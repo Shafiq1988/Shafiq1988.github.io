@@ -13,7 +13,7 @@ title                    : "Shafiq Ur Rehman / PhD"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description " I am PhD in Physics with research on Physical and chemical properties of materials"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : Shafiq1988.githu.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shafiq1988.github.io"
 
