@@ -1,5 +1,5 @@
 ---
-title: "Computational insight of ZrS2/graphene heterobilayer as an efficient anode material "
+title: "Computational insight of ZrS2-graphene heterobilayer as an efficient anode material "
 collection: publications
 category: manuscripts
 permalink: /publication/Paper1
