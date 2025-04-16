@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Computational Materials Science Workshop"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Workshop"
+permalink: /teaching/2021-computational-materials
+venue: "SUSTECH, Shenzhen, China"
+date: 2021-03-01
+location: "Shenzhen, China"
 ---
+This workshop provided graduate students with hands-on training in computational materials science. Topics included:
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### Key Topics
+- **Density Functional Theory (DFT)**: Basics of electronic structure calculations.
+- **Molecular Dynamics (MD)**: Simulations using LAMMPS.
+- **Machine Learning**: Predicting material properties with scikit-learn.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Course Structure
+1. Weekly lectures (2 hours)
+2. Coding labs (Python/Jupyter notebooks)
+3. Final project: Simulating a 2D material (e.g., graphene)
