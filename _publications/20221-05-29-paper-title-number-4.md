@@ -1,6 +1,5 @@
 ---
-title: "Role of in plane interface in controlling exciton recombination and
-enhanced photocatalytic properties"
+title: "Role of in plane interface in controlling exciton recombination and enhanced photocatalytic properties"
 collection: publications
 category: conferences
 #permalink: /publication/2024-02-17-paper-title-number-4
