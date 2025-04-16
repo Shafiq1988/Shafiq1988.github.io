@@ -1,12 +1,12 @@
 ---
-title: "Role of in plane interface in controlling exciton recombination and enhanced photocatalytic properties"
+title: "In-plane heterostructures of transition metal dichalcogenide monolayers with enhanced charge separation and effective overall water splitting"
 collection: publications
-category: conferences
-#permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2021-05-29
-#venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Role of in plane interface in controlling exciton recombination and enhanced photocatalytic properties, UK-Canada Joint symposium on coordination Chemistry,
-May.29-June.2, St Andrews University, Scotland, UK.'
+category: manuscripts
+#permalink: /publication/2024-7-11-paper-title-number-2
+#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+#date: 2010-10-01
+#venue: 'Journal 1'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Shafiq Ur Rehman, Q. H.Sun,J. Wang, W. q. Lv, A. Khan,Y. F. Liu, N. Mahmood, J. Xian, Int. j Hydrogen Energy, 80(2024)280–288'
 ---
