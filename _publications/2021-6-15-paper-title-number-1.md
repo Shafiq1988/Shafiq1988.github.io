@@ -3,7 +3,7 @@ title: "Computational insight of ZrS2-graphene heterobilayer as an efficient ano
 collection: publications
 category: manuscripts
 permalink: /publication/Paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 venue: 'Journal 1'
 slidesurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0169433221003809'
 #paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2024/ta/d3ta07106e'
