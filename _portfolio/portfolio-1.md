@@ -1,6 +1,6 @@
 ---
 title: "Unraveling the photocatalytic potential of transition metal sulfide and selenide monolayers for overall water splitting and photo-corrosion inhibition"
-excerpt: "Transition metal sulphide and selendie are identified through a screening process as described below. The paper is publish in JMCA Journal A<br/><img src='/images/Graphical-Abstract.png'>"
+excerpt: "Transition metal sulphide and selendie are identified through a screening process as described below. The paper is publish in JMCA Journal A<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
