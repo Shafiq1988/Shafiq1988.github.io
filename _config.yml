@@ -13,8 +13,8 @@ title                    : "Shafiq Ur Rehman / PhD"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description " I am PhD in Physics with research on Physical and chemical properties of materials"
-url                      : "https://github.com/Shafiq1988/Shafiq1988.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-#baseurl                  : "https://github.com/academicpages/academicpages.github.io" # the subpath of your site, e.g. "/blog"
+#url                      : "https://github.com/Shafiq1988/Shafiq1988.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "https://github.com/academicpages/academicpages.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Shafiq1988"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
