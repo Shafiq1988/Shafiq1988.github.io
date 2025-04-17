@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "we have screened 1000 monolayers and have identified only 7 monolayers suitable for water splitting. The screening metrices are shown in below figure<br/><img src='/images/Graphical-abstract.png'>"
 collection: portfolio
 ---
 
