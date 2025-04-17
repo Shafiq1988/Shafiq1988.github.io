@@ -22,7 +22,7 @@ repository               : "Shafiq1988"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/Profile.png"
   name             : "Shafiq Ur Rhman"
   pronouns         : # example: "she/her"  
   bio              : "Computataional Physicist and material science engineer"
