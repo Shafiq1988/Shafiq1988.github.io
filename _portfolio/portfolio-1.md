@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "we have screened 1000 monolayers and have identified only 7 monolayers suitable for water splitting. The screening metrices are shown in below figure<br/><img src='/images/Graphical-abstract.png'>"
+title: "2D photocatalyst"
+excerpt: "we have screened 1000 monolayers and have identified only 7 monolayers suitable for water splitting. The screening metrices are shown in below figure<br/><img src='/images/Graphical-Abstract.png'>"
 collection: portfolio
 ---
 
