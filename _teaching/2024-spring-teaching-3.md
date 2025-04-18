@@ -10,9 +10,9 @@ location: "Shenzhen, China"
 This workshop provided graduate students with hands-on training in computational materials science. Topics included:
 
 ### Key Topics
-- **Density Functional Theory (DFT)**: Basics of electronic structure calculations.
-- **Molecular Dynamics (MD)**: Simulations using LAMMPS.
-- **Machine Learning**: Predicting material properties with scikit-learn.
+- **Brief Introduction of Computataional Materials Science**: Basics of electronic structure calculations.
+- **Basic Concept in Solid**: SSP.
+- **Install and practice with visulizationa nd SSH tools**: Predicting material properties with scikit-learn.
 
 ### Course Structure
 1. Weekly lectures (2 hours)
