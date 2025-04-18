@@ -10,12 +10,12 @@ location: "Shenzhen University 🎓, China"
 This course provided graduate students with hands-on training in computational materials science. Topics included:
 
 ### Key Topics
-- **Lesson 1__Brief introduction of Computational Materials Science.
-- **Lesson 2__Basic concepts in solids.
-- **Lesson 3__Install and practice with visualization and SSH tools.
-- **Lesson 4__Linux commands_Part1.
-- **Lesson 5__Get familiar with supercomputer access and run your first VASP job.
-- **Lesson 6__Introduction of Density Functional Theory.
+Lesson 1__Brief introduction of Computational Materials Science.
+Lesson 2__Basic concepts in solids.
+Lesson 3__Install and practice with visualization and SSH tools.
+Lesson 4__Linux commands_Part1.
+Lesson 5__Get familiar with supercomputer access and run your first VASP job.
+Lesson 6__Introduction of Density Functional Theory.
 
 ### Course Structure
 1. Weekly lectures (2 hours)
