@@ -1,21 +1,24 @@
+
 ---
 title: "Computational Materials Science Course"
 collection: teaching
-type: "Graduate course"
+type: "Graduate Course"
 permalink: /teaching/2021-computational-materials
-venue: "Shenzhen University 🎓, Shenzhen, China"
-date: 2019-01-01
-location: "Shenzhen University 🎓, China"
+venue: "SUSTECH, Shenzhen, China"
+date: 2021-03-01
+location: "Shenzhen, China"
 ---
+This Course provided graduate students with hands-on training in computational materials science. Topics included:
 
-Lesson 1-Brief introduction of Computational Materials Science.
-Lesson 2-Basic concepts in solids.
-Lesson 3-Install and practice with visualization and SSH tools.
-Lesson 4-Linux commands_Part1.
-Lesson 5-Get familiar with supercomputer access and run your first VASP job.
-Lesson 6-Introduction of Density Functional Theory.
+### Key Topics
+- **Brief Introduction of Quantum Espresso and properties calcultions** 
+- **structure, electronic and optical properties with Quantum Espresso**
+- **Comsol code introduction and application**
+- **structure, electronic and optical properties with Quantum Espresso**
+- **Installation and practices with visulizationa and SSH tools**
 
 ### Course Structure
 1. Weekly lectures (2 hours)
-2. Coding labs (Python/Jupyter notebooks)
-3. Final project: Simulating a 2D material (e.g., graphene)
+2. hands on practice (linux supercomputer server)
+3. Daily home works
+   
