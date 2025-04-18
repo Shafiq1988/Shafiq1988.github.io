@@ -1,4 +1,3 @@
-
 ---
 title: "Computational Materials Science Course"
 collection: teaching
