@@ -1,18 +1,21 @@
 ---
-title: "Computational Materials Science Workshop"
+title: "Computational Materials Science Course"
 collection: teaching
-type: "Graduate Workshop"
+type: "Graduate Course"
 permalink: /teaching/2021-computational-materials
 venue: "SUSTECH, Shenzhen, China"
 date: 2021-03-01
 location: "Shenzhen, China"
 ---
-This workshop provided graduate students with hands-on training in computational materials science. Topics included:
+This Course provided graduate students with hands-on training in computational materials science. Topics included:
 
 ### Key Topics
-- **Brief Introduction of Computataional Materials Science**: Basics of electronic structure calculations.
-- **Basic Concept in Solid**: SSP.
-- **Install and practice with visulizationa nd SSH tools**: Predicting material properties with scikit-learn.
+- **Brief Introduction of Computataional Materials Science** 
+- **Basic Concept in Solid**
+- **Install and practice with visulizationa nd SSH tools**
+- **Linux commands-part-1**
+- **Get famalier with supercomputer use and start your firts VASP job**
+- **Introduction of Density Functional theory**
 
 ### Course Structure
 1. Weekly lectures (2 hours)
