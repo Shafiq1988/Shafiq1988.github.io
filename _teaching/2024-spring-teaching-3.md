@@ -21,7 +21,7 @@ This Course provided graduate students with hands-on training in computational m
 - **Properties calculation with VASP-Thermodynamics of molecules and metals**
 - **Properties calculation with VASP-Thermodynamics of semiconductors and insulators**
 - **Properties calculation with VASP-DOS and band structure**
-- ** Properties calculation with VASP-Raman spectrum**
+- **Properties calculation with VASP-Raman spectrum**
 - **Properties calculation with VASP-phonon dispersion, phonon DOS, and thermal properties**
 - **Linux commands_Part2**
 - **Properties calculation with VASP-transition state and activation barrier**
