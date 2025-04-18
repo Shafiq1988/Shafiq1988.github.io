@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D  Condensed matter physics, University of Science and technology of China, 2018
+* M.S.  Physics, Hazara University, Mansehra, KPK, Pakistan 2014
+* M.Sc  Physics, Hazara University, Mansehra, KPK, Pakistan 2011
+* B.Sc  Physics and Mathematics, Peshawar University, Peshawar, KPK, Pakistan 2009
 
 Work experience
 ======
