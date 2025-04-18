@@ -1,6 +1,6 @@
 ---
 title: "Computational insight of ZrS2/graphene heterobilayer as an efficient anode material"
-excerpt: " The paper is publish in Applied surface science<br/><img src='/images/Reaction-path.png'>"
+excerpt: "The paper is publish in Applied surface science.<br/><img src='/images/Reaction-path.png'>"
 collection: portfolio
 ---
 
