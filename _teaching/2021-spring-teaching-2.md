@@ -10,7 +10,7 @@ location: "Shenzhen, China"
 This Course provided graduate students with hands-on training in computational materials science. Topics included:
 
 ### Key Topics
-- Introduction of Finite Element Analysis
+- **Introduction of Finite Element Analysis**
 - General Procedure of Finite Element Analysis and Usage of COMSOL
 - General Procedure of Finite Element Analysis and Usage of COMSOL
 - Building 1D and 2D structures using COMSOL
