@@ -1,36 +1,36 @@
 ---
-title: "Computational Materials Science Course"
+title: "Computational Materials Science Course-1"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2021-computational-materials
+permalink: /teaching/2021-computational-materials-science
 venue: "Shenzhen University, Shenzhen, China"
-date: 2021-03-01
+date: 2020-03-01
 location: "Shenzhen, China"
 ---
 This Course provided graduate students with hands-on training in computational materials science. Topics included:
 
-### Key Topics
-- **Brief Introduction of Computataional Materials Science** 
-- **Basic Concept of Solids**
-- **Installation and practices with visulizationa and SSH tools**
-- **Linux commands-part-1**
-- **Get famalier with supercomputer use and start your firts VASP job**
-- **Introduction of Density Functional theory**
-- **Input and output files of VASP-Part1**
-- **Input and output files of VASP-Part2**
-- **Properties calculation with VASP-Thermodynamics of molecules and metals**
-- **Properties calculation with VASP-Thermodynamics of semiconductors and insulators**
-- **Properties calculation with VASP-DOS and band structure**
-- **Properties calculation with VASP-Raman spectrum**
-- **Properties calculation with VASP-phonon dispersion, phonon DOS, and thermal properties**
-- **Linux commands_Part2**
-- **Properties calculation with VASP-transition state and activation barrier**
-- **Properties calculation with VASP-ab-initio molecular dynamics**
-- **Properties calcularion with VASP-quasiparticle effects**
-- **Properties calcularion with VASP-exciton effects**
-- **Structure building using Materials Studio-Part1**
-- **Structure building using Materials Studio-Part2**
-- **Home work answers and mini answer**
+### Course contents 
+- Brief Introduction of Computataional Materials Science
+- Basic Concept of Solids
+- Installation and practices with visulizationa and SSH tools
+- Linux commands-part-1
+- Get famalier with supercomputer use and start your firts VASP job
+- Introduction of Density Functional theory
+- Input and output files of VASP-Part-1
+- Input and output files of VASP-Part-2
+- Properties calculation with VASP-Thermodynamics of molecules and metals
+- Properties calculation with VASP-Thermodynamics of semiconductors and insulators
+- Properties calculation with VASP-DOS and band structure
+- Properties calculation with VASP-Raman spectrum
+- Properties calculation with VASP-phonon dispersion, phonon DOS, and thermal properties
+- Linux commands_Part-2
+- Properties calculation with VASP-transition state and activation barrier
+- Properties calculation with VASP-ab-initio molecular dynamics
+- Properties calcularion with VASP-quasiparticle effects
+- Properties calcularion with VASP-exciton effects
+- Structure building using Materials Studio-Part--1
+- Structure building using Materials Studio-Part2
+- Home work answers and mini answer
 
 ### Course Structure
 1. Weekly lectures (2 hours)
