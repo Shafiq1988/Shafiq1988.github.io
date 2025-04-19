@@ -11,7 +11,7 @@ This Course provided graduate students with hands-on training in computational m
 
 ### Key Topics
 - **Brief Introduction of Computataional Materials Science** 
-- **Basic Concept in Solid**
+- **Basic Concept of Solids**
 - **Installation and practices with visulizationa and SSH tools**
 - **Linux commands-part-1**
 - **Get famalier with supercomputer use and start your firts VASP job**
