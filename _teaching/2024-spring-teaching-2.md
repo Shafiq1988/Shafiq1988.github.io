@@ -7,9 +7,9 @@ venue: "SUSTECH, Shenzhen, China"
 date: 2021-03-01
 location: "Shenzhen, China"
 ---
-This Course provided graduate students with hands-on training in computational materials science. Topics included:
+This Course provided graduate students with hands-on training in computational materials science with COMSOL code. Topics included:
 
-### Key Topics
+### Course content 
 - Introduction of Finite Element Analysis
 - General Procedure of Finite Element Analysis and Usage of COMSOL
 - General Procedure of Finite Element Analysis and Usage of COMSOL
