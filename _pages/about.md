@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "well come to Computational-Lab"
+title: "Well come to my website"
 author_profile: true
 redirect_from: 
   - /about/
