@@ -19,7 +19,7 @@ This Course provided graduate students with hands-on training in computational m
 - Solving equations using COMSOL
 - Finite Element Analyses of Heat Transfer
 - Finite Element Analyses of Fluid Dynamics
-- **Finite Element Analyses of Mass Transfer
+- Finite Element Analyses of Mass Transfer
 - Finite Element Analyses of Electrostatics
 - Finite Element Analyses of Electromagnatic Field
 - Finite Element Analyses of Geometrical Optics
