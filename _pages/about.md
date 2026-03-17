@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ### Research Intrest
-My research employs advanced computational methods—including first-principles calculations, GW and Bethe-Salpeter equation (GW+BSE) techniques, and molecular dynamics (MD) simulations—to investigate functional materials for renewable energy applications. I specialize in elucidating the structural, electronic, optical, magnetic, and catalytic properties of two-dimensional (2D) layered materials and inorganic compounds, with the goal of designing high-performance materials for sustainable energy technologies.
+I employ multiscale simulations based on first-principles calculations, including GW and Bethe–Salpeter equation (GW+BSE) methods, along with molecular dynamics (MD) simulations. My research focuses on understanding the failure mechanisms of photoanodes and photocathodes and designing improved alternatives. I am particularly interested in renewable energy applications. My expertise lies in investigating the structural, electronic, optical, magnetic, and catalytic properties of two-dimensional (2D) materials and inorganic compounds to develop high-performance materials for sustainable energy technologies.
 
 ### Technical expertise 
 I am proficient in leveraging computational tools such as VASP, LAMMPS, Quantum ESPRESSO, Materials Studio, and COMSOL for materials modeling and multiscale simulations. My workflow integrates Python and Linux scripting for data analysis, automation, and custom code development, alongside Mathematica for symbolic computations and algorithm design.
