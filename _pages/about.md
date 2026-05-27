@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Well come to my website"
+title: "Welcome to my website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-### Research Intrest
+### Research Interest
 I employ multiscale simulations based on first-principles calculations, including GW and Bethe–Salpeter equation (GW+BSE) methods, along with molecular dynamics (MD) simulations. My research focuses on understanding the failure mechanisms of photoanodes and photocathodes and designing improved alternatives. I am particularly interested in renewable energy applications. My expertise lies in investigating the structural, electronic, optical, magnetic, and catalytic properties of two-dimensional (2D) materials and inorganic compounds to develop high-performance materials for sustainable energy technologies.
 
 ### Technical expertise 
