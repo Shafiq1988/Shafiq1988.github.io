@@ -7,6 +7,6 @@ category: manuscripts
 date: 2024-08-24
 #venue: 'Journal 1'
 #slidesurl: 'https://www.sciencedirect.com/science/article/pii/S0360319924028453'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360319924028453'
+paperurl: '/files/2024-ijhe-in-plane-tmd-heterostructures.pdf'
 citation: 'Shafiq Ur Rehman, Q. H. Sun, J. Wang, W. q. Lv, A. Khan, Y. F. Liu, N. Mahmood, J. Xian, Int. j Hydrogen Energy, 80(2024)280–288.'
 ---
