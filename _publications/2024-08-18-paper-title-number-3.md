@@ -7,6 +7,6 @@ permalink: /publication/2021-15-6-paper-title-number-3
 date: 2024-08-18
 #venue: 'Journal 1'
 #slidesurl: 'https://pubs.rsc.org/en/content/articlelanding/2024/ta/d3ta07106e/unauth'
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: '/files/2024-jmca-photocatalytic-tmss-monolayers.pdf'
 citation: 'Shafiq Ur Rehman, J.Wang, G. Wu, S. Ali, J. Xian, N. Mahmood, J. Mater. Chem. A, 2024,12, 6693-6702. '
 ---
