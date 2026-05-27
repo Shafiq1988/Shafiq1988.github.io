@@ -7,7 +7,7 @@ permalink: /publication/Paper1
 date: 2021-06-15
 #venue: 'Journal 1'
 #slidesurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0169433221003809'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0169433221003809'
+paperurl: '/files/2021-apss-zrs2-graphene-heterobilayer.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Shafiq Ur Rehman, A. Samad, M. Saeed, B. Amin, M. Hafeez, M. I. Mir, Z. Ling, Applied Surface Science 551 (2021) 149304. '
 ---
