@@ -8,8 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Biography"
+    url: /biography/
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Codes"
+    url: /codes/
+
+  - title: "DFT Skills"
+    url: /dft-skills/
+
+  - title: "HPC Tools"
+    url: /hpc-tools/
 
   - title: "Talks"
     url: /talks/    
