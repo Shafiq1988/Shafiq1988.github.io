@@ -16,6 +16,7 @@ author_profile: true
 
 - VASP and Quantum ESPRESSO post-processing
 - LAMMPS trajectory analysis
+- Ab-initio non-adiabatic molecular dynamics (NAMD) data analysis
 - Optical absorption and electronic property analysis
 - Batch preparation for parameter studies
 - Publication-quality plots and data tables

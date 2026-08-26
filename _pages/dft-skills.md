@@ -15,5 +15,6 @@ author_profile: true
 ## Advanced Methods
 
 - GW and Bethe-Salpeter equation (GW+BSE) calculations.
+- Ab-initio non-adiabatic molecular dynamics (NAMD) simulations.
 - Molecular dynamics simulations for structural stability and materials behavior.
 - Multiscale modeling workflows that connect atomistic insight with materials performance.

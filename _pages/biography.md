@@ -5,7 +5,7 @@ permalink: /biography/
 author_profile: true
 ---
 
-I am Shafiq Ur Rehman, a computational physicist and materials science engineer with a PhD background in computational condensed matter physics. My research uses first-principles calculations, molecular dynamics, and high-performance computing to understand and design materials for sustainable energy applications.
+I am Shafiq Ur Rehman, a computational physicist and materials science engineer with a PhD background in computational condensed matter physics. My research uses first-principles calculations, ab-initio non-adiabatic molecular dynamics (NAMD), molecular dynamics, and high-performance computing to understand and design materials for sustainable energy applications.
 
 My work focuses on the structural, electronic, optical, magnetic, and catalytic properties of two-dimensional materials and inorganic compounds. I am especially interested in photoanodes, photocathodes, photocatalytic materials, and the mechanisms that control stability and performance in energy conversion systems.
 
