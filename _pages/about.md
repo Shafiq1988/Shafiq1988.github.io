@@ -10,11 +10,7 @@ redirect_from:
 <section class="home-news">
   <div class="section-kicker">News</div>
   <h2>Recent Updates</h2>
-  <ul class="news-list">
-    <li><strong>Research focus:</strong> first-principles simulations, GW+BSE calculations, molecular dynamics, and sustainable-energy materials.</li>
-    <li><strong>Active interests:</strong> 2D materials, inorganic compounds, photocatalysis, photoelectrodes, and failure mechanisms in energy materials.</li>
-    <li><strong>Website update:</strong> refreshed layout, profile image, navigation, and technical sections for codes, DFT skills, and HPC tools.</li>
-  </ul>
+  <p><strong>New Publication in <em>Small</em>.</strong> Our latest work, <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.75308"><strong>"Surface-Engineered LSCF Electrode via PrNi<sub>0.7</sub>Co<sub>0.3</sub>O<sub>3-&delta;</sub> Infiltration for Superior Performance and Stability in Reversible Protonic Ceramic Cells"</strong></a>, has been published in <em>Small</em> by Wiley Online Library. In this study, I contributed the <strong>density functional theory (DFT) calculations</strong>, investigating the oxygen evolution/reduction reaction energetics and the role of oxygen vacancies in pristine and defective PNC structures. The calculations reveal how defect engineering modifies reaction energetics and enhances catalytic activity, providing atomistic insight into the experimentally observed improvement in electrode performance and stability. The combined theoretical and experimental results demonstrate an effective surface-engineering strategy for high-performance reversible protonic ceramic cells.</p>
 </section>
 
 ## Biography
