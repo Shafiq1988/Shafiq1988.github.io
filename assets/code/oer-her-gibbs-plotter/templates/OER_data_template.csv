@@ -1,0 +1,6 @@
+State_index,State,Dark_eV,Illuminated_eV,Reaction,pH,Material,Carrier_potential_V
+0,H_2O + *,0.000000,0.000000,OER,7.0,Example material,1.690
+1,OH*,2.300000,0.610000,OER,7.0,Example material,1.690
+2,O*,1.430000,-1.950000,OER,7.0,Example material,1.690
+3,OOH*,3.130000,-1.950000,OER,7.0,Example material,1.690
+4,O_2 + *,4.230000,-2.540000,OER,7.0,Example material,1.690

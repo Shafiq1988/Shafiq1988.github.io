@@ -1,0 +1,44 @@
+{
+  "Fig1_OER_MoS2_WS2": {
+    "reaction": "OER",
+    "material_math": "MoS$_2$/WS$_2$",
+    "pH": 7.0,
+    "carrier_symbol": "U_h",
+    "carrier_potential_V": 1.693,
+    "data_file": "Fig1_OER_MoS2_WS2_plotted_data.dat",
+    "limiting_step": 1,
+    "residual_uphill_eV": 0.61089,
+    "thermodynamic_overpotential_V": 1.48689
+  },
+  "Fig2_OER_MoS2_PtSe2": {
+    "reaction": "OER",
+    "material_math": "MoS$_2$/PtSe$_2$",
+    "pH": 5.9,
+    "carrier_symbol": "U_h",
+    "carrier_potential_V": 1.9281,
+    "data_file": "Fig2_OER_MoS2_PtSe2_plotted_data.dat",
+    "limiting_step": 3,
+    "residual_uphill_eV": 1.2661,
+    "thermodynamic_overpotential_V": 2.3123
+  },
+  "Fig3_HER_MoS2_WS2": {
+    "reaction": "HER",
+    "material_math": "MoS$_2$/WS$_2$",
+    "pH": 7.0,
+    "carrier_symbol": "U_e",
+    "carrier_potential_V": 0.863,
+    "data_file": "Fig3_HER_MoS2_WS2_plotted_data.dat",
+    "limiting_step": "Volmer adsorption",
+    "delta_G_H_star_light_eV": 0.31721
+  },
+  "Fig4_HER_MoS2_PtSe2": {
+    "reaction": "HER",
+    "material_math": "MoS$_2$/PtSe$_2$",
+    "pH": 5.9,
+    "carrier_symbol": "U_e",
+    "carrier_potential_V": 0.6481,
+    "data_file": "Fig4_HER_MoS2_PtSe2_plotted_data.dat",
+    "limiting_step": "Volmer adsorption",
+    "delta_G_H_star_light_eV": 0.1632
+  }
+}

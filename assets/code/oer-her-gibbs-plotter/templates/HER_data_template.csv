@@ -1,0 +1,4 @@
+State_index,State,Dark_eV,Illuminated_eV,Reaction,pH,Material,Carrier_potential_V
+0,H+ + e- + *,0.000000,0.000000,HER,7.0,Example material,0.860
+1,H*,1.180000,0.317000,HER,7.0,Example material,0.860
+2,1/2 H2 + *,0.000000,0.000000,HER,7.0,Example material,0.860
